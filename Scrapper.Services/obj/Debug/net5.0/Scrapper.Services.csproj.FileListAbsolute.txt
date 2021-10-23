@@ -1,0 +1,12 @@
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\Scrapper.Services.deps.json
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\Scrapper.Services.dll
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\ref\Scrapper.Services.dll
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\Scrapper.Services.pdb
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.csprojAssemblyReference.cache
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.AssemblyInfoInputs.cache
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.AssemblyInfo.cs
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.dll
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\ref\Scrapper.Services.dll
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.pdb
