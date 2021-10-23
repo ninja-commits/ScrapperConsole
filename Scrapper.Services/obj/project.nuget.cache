@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8qDniJjAQ+Ri2NZpPxf4xGQf/X63x0NWkCME6QlCk6ybdwq71f2NGo3akPThxGOIKqb/iSTAAC2N6UjW4hoc6Q==",
+  "dgSpecHash": "vRpyh5GdBJ8kWKE0BRIQZ4wQU5Qys/XwqlaXm/PeMGBKyla+ZpjJ2NBn4kN2T5nvdr+yaWwECN0LGFA7l6XekA==",
   "success": true,
   "projectFilePath": "C:\\Users\\RYZEN BRYAN\\source\\repos\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,3 +10,6 @@ C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\ne
 C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.dll
 C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\ref\Scrapper.Services.dll
 C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.pdb
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\Scrapper.Configuration.dll
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\bin\Debug\net5.0\Scrapper.Configuration.pdb
+C:\Users\RYZEN BRYAN\source\repos\ScrapperConsole\Scrapper.Services\obj\Debug\net5.0\Scrapper.Services.csproj.CopyComplete
