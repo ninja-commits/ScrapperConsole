@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Extensions.Options;
+using Scrapper.Configuration.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,13 +10,17 @@ namespace Scrapper.Services.Scrapp
 {
     public class ScrapperService : IScrapperService
     {
-        public ScrapperService()
+        private readonly Position _options;
+
+        public ScrapperService(IOptions<Position> options)
         {
+            _options = options.Value;
         }
 
         public async Task RunAsync()
         {
             Console.WriteLine("START SCRAPPING");
+            Console.WriteLine(_options.Name);
         }
     }
 }
