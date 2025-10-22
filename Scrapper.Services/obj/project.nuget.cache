@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vRpyh5GdBJ8kWKE0BRIQZ4wQU5Qys/XwqlaXm/PeMGBKyla+ZpjJ2NBn4kN2T5nvdr+yaWwECN0LGFA7l6XekA==",
+  "dgSpecHash": "J8rlNLTq1t0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RYZEN BRYAN\\source\\repos\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj",
+  "projectFilePath": "c:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
   "logs": []
 }

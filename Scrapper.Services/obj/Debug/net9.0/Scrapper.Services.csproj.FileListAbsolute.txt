@@ -1,0 +1,16 @@
+C:\tmp\ScrapperConsole\Scrapper.Services\bin\Debug\net9.0\Scrapper.Services.deps.json
+C:\tmp\ScrapperConsole\Scrapper.Services\bin\Debug\net9.0\Scrapper.Services.dll
+C:\tmp\ScrapperConsole\Scrapper.Services\bin\Debug\net9.0\Scrapper.Services.pdb
+C:\tmp\ScrapperConsole\Scrapper.Services\bin\Debug\net9.0\Scrapper.Configuration.dll
+C:\tmp\ScrapperConsole\Scrapper.Services\bin\Debug\net9.0\Scrapper.Configuration.pdb
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.csproj.AssemblyReference.cache
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.AssemblyInfoInputs.cache
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.AssemblyInfo.cs
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.csproj.CoreCompileInputs.cache
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.sourcelink.json
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.2BD7FB0B.Up2Date
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.dll
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\refint\Scrapper.Services.dll
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\Scrapper.Services.pdb
+C:\tmp\ScrapperConsole\Scrapper.Services\obj\Debug\net9.0\ref\Scrapper.Services.dll
