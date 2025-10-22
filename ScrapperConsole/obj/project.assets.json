@@ -1676,11 +1676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
+      "projectUniqueName": "C:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
       "projectName": "ScrapperConsole",
-      "projectPath": "c:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
+      "projectPath": "C:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
       "packagesPath": "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\",
-      "outputPath": "c:\\tmp\\ScrapperConsole\\ScrapperConsole\\obj\\",
+      "outputPath": "C:\\tmp\\ScrapperConsole\\ScrapperConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1702,8 +1702,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj": {
-              "projectPath": "c:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj"
+            "C:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj": {
+              "projectPath": "C:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj"
             }
           }
         }

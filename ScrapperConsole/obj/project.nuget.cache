@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHa9+P42Ef0=",
+  "dgSpecHash": "HKMzXw54jy8=",
   "success": true,
-  "projectFilePath": "c:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
+  "projectFilePath": "C:\\tmp\\ScrapperConsole\\ScrapperConsole\\ScrapperConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.10\\microsoft.extensions.configuration.9.0.10.nupkg.sha512",
     "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.10\\microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8rlNLTq1t0=",
+  "dgSpecHash": "RxmY4pC9k6U=",
   "success": true,
-  "projectFilePath": "c:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj",
+  "projectFilePath": "C:\\tmp\\ScrapperConsole\\Scrapper.Services\\Scrapper.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
     "C:\\Users\\RYZEN BRYAN\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
